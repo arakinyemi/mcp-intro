@@ -14,7 +14,6 @@ cd mcp-intro
 cd weather
 ```
 
-Save the 
 Step 3: Create a virtual environment (Install uv if you haven't already)
 ```bash
 uv venv
